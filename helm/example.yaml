@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/win-n-kyaw/akuity-argocd-masterclass
     targetRevision: main
     path: path/to/chart
     ###
